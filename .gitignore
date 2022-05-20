@@ -32,7 +32,7 @@ local.properties
 
 # node.js
 #
-LaundryCustomer/node_modules/
+node_modules/
 npm-debug.log
 yarn-error.log
 
@@ -61,4 +61,5 @@ buck-out/
 /vendor/bundle/
 
 *.java
+
 
